@@ -1,6 +1,6 @@
 # The Woo Lab Projects
 
-This is a catalogue of projects from the Woo Lab. Learn more about the group on [our group page](titan.chem.uottawa.ca).
+This is a catalogue of projects from the Woo Lab. Learn more about the group on [our group page](http://titan.chem.uottawa.ca).
 
 ## For Guests
 
